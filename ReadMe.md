@@ -1,4 +1,4 @@
-# SpringBoot-Project-AIMaker(A302)
+# SpringBoot-Project-AIMaker
 스프링부트 + JPA_AIMaker
 
 ## 🖥 프로젝트 소개
